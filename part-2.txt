@@ -1,0 +1,36 @@
+Unhackable Uncrackable Unsnackable Cipher 4500
+
+Completely randomization of the 26 English letters. The first one that was the same was "v" to throw off the hacker, the second was "r" just by happenchance.
+
+If it was good enough for cryptographers in World War 2, it is good enough for me.
+
+"i love crypography" => "b ecvl grztcirwtjz"
+
+a=w
+b=f
+c=g
+d=o
+e=l
+f=y
+g=i
+h=j
+i=b
+j=h
+k=s
+l=e
+m=q
+n=p
+o=c
+p=t
+q=m
+r=r
+s=k
+t=u
+u=x
+v=v
+w=d
+x=a
+y=z
+z=n
+
+"b ecvl grztcirwtjz" => "i love crypography"
